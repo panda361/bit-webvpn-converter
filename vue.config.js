@@ -2,7 +2,7 @@ module.exports = {
   pages: {
     index: {
       entry: 'src/main.ts',
-      title: 'BIT WEBVPN Converter'
+      title: 'BUAA WEBVPN Converter'
     }
   },
   transpileDependencies: ['vuetify']

@@ -42,8 +42,8 @@
           {{ link.name }}
         </v-btn> -->
         <v-col class="py-4 text-center black--text" cols="12">
-          © By <a href="https://github.com/spencerwooo/" target="_blank">SpencerWoo</a>{{ new Date().getFullYear() }} && Modified By Panda —
-          <strong>Built with love at <a href="http://www.bit.edu.cn/" target="_blank">BIT</a> and <a href="http://www.bit.edu.cn/" target="_blank">BUAA</a></strong>
+          © By <a href="https://github.com/spencerwooo/" target="_blank">SpencerWoo</a> {{ new Date().getFullYear() }} & Modified By Panda —
+          <strong>Built with love at <a href="http://www.bit.edu.cn/" target="_blank">BIT</a> and <a href="http://www.buaa.edu.cn/" target="_blank">BUAA</a></strong>
         </v-col>
       </v-row>
     </v-footer>
